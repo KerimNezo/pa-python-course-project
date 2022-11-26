@@ -1,1 +1,1 @@
-print("Jest ovo fun :DDDDD")
+#Projekat koji se pravio na kraju videa "Python Tutorial for Begginers"
